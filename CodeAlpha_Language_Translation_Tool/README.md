@@ -24,7 +24,6 @@ Here is a preview of the polished interface presenting different layouts:
   <img src="assets/history_preview.png" alt="Translation History" width="90%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
 </p>
 
-*(🔧 **Tip for GitHub**: To show your screenshots, create a folder named `assets` in your repository, name your screenshots `dashboard_preview.png` and `history_preview.png`, save them inside `assets/`, and they will automatically display above!)*
 
 ---
 
