@@ -1,6 +1,0 @@
-{
-  "name": "Language Translation Tool",
-  "description": "An AI-powered language translation assistant that provides fast, accurate, and context-aware translations across multiple languages. It helps users overcome language barriers by translating text, documents, and conversations while maintaining grammatical correctness and natural fluency.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
