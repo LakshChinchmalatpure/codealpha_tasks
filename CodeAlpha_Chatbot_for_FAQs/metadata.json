@@ -1,0 +1,6 @@
+{
+  "name": "NLP FAQ Chatbot & Similarity Sandbox",
+  "description": "An interactive natural language processing (NLP) sandbox where users can manage FAQs, visualize text preprocessing (tokenization, stopwords, stemming), examine TF-IDF vectors, and test question matching with live cosine similarity charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
