@@ -6,6 +6,9 @@ Experience real-time diagnostic matrices, preprocessing stages (stopword filtrat
 
 ---
 
+
+Live Link   :    https://aistudio.google.com/apps/de2fdf2e-1f1d-428e-a558-68d9bf662d39?showPreview=true&showAssistant=true&fullscreenApplet=true
+
 ## 🌟 Key Features
 
 1. **Active Preprocessing Pipeline & Lexical Preprocessor**:
