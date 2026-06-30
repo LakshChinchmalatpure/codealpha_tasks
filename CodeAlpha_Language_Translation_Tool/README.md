@@ -10,6 +10,8 @@ An AI-powered, high-precision, and context-aware Language Translation platform d
 
 ---
 
+Live Link  :    https://aistudio.google.com/apps/ae8e888d-f017-4215-ab1d-a51259321c18?showAssistant=true&project=gen-lang-client-0213871025&showPreview=true&fullscreenApplet=true  
+
 ## 📸 Screenshots
 
 Here is a preview of the polished interface presenting different layouts:
